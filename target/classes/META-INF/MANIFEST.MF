@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: tasklist
+Implementation-Title: api-rest
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: kenne.roberto.silva
 Implementation-Vendor-Id: br.com
